@@ -25,4 +25,4 @@ Lucas Andrade
 Licença
 -------
 
-(?)
+GPL v3
