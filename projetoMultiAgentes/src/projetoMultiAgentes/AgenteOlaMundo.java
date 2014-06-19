@@ -14,7 +14,7 @@ public class AgenteOlaMundo extends Agent  {
 
 	protected void setup(){
 		System.out.println("Ola mundo!");
-System.out.println("Meu nome");
+		System.out.println("Meu nome");
 }
 	
 	private void metodo(){
